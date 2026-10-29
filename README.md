@@ -82,6 +82,11 @@ If you plan to run REI3 behind a proxy, please make sure to disable client timeo
 
 There are also Docker Compose files ([x64](https://rei3.de/docker_x64)/[arm64](https://rei3.de/docker_arm64)) and a [portable version](https://rei3.de/latest/x64_portable) for Windows available to quickly setup a test or development system.
 
+## :cloud: One-Click Deploy
+
+<a href="https://repocloud.io/details/REI3/"><img src="https://d16t0pc4846x52.cloudfront.net/deploylobe.svg" alt="Deploy on RepoCloud" height="42"></a>
+<a href="https://railway.com/deploy/rei3-open-source-low-code-business-app-platform--rei3"><img src="https://railway.com/button.svg" alt="Deploy on Railway" height="42"></a>
+
 ## :bulb: Where to get help
 You can visit our [community forum](https://community.rei3.de) for anything related to REI3. The full documentation is available on [rei3.de](https://rei3.de/en/docs), including documentation for [admins](https://rei3.de/en/docs/admin) and [application authors](https://rei3.de/en/docs/builder) as well as [Youtube videos](https://www.youtube.com/channel/UCKb1YPyUV-O4GxcCdHc4Csw).
 
